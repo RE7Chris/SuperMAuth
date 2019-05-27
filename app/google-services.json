@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "555668606725",
+    "firebase_url": "https://superm-auth.firebaseio.com",
+    "project_id": "superm-auth",
+    "storage_bucket": "superm-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555668606725:android:58220e557c0bee32",
+        "android_client_info": {
+          "package_name": "com.example.supermauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555668606725-166bn2cjvb3l8s6e649v99ifgg426mtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.supermauth",
+            "certificate_hash": "3329a5a72205e02c1c3894d57089186c69c4141a"
+          }
+        },
+        {
+          "client_id": "555668606725-s63q7ies4opk2rb3cld9bbl3klutigi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqA_-mgTAzFuhT2Mbcc0dQDtga4pno_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555668606725-s63q7ies4opk2rb3cld9bbl3klutigi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
